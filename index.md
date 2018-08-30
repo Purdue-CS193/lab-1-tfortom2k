@@ -1,12 +1,12 @@
 ## WAR THUNDER IS SO GOOD! btw this is Tom's web.
 
 My favoirte things about CS193:
--It's a class at Purdue University! The best university ever!
--It's not a class at Indiana University...THANK GOD!
--TAs in this class are some of the coolest people I've ever seen!
--It's not a class at Indiana University!!
--It gives me credit!
--It's not a class at Indiana University!!!!
+- It's a class at Purdue University! The best university ever!
+- It's not a class at Indiana University...THANK GOD!
+- TAs in this class are some of the coolest people I've ever seen!
+- It's not a class at Indiana University!!
+- It gives me credit!
+- It's not a class at Indiana University!!!!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
